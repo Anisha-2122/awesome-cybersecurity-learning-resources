@@ -68,6 +68,7 @@ We would keep adding relevant learning references when we find them informative 
 7. [Lets Defend for Blue Teamers](https://www.letsdefend.io/)
 8. [CTF Time](https://ctftime.org/) 
 9. [Hacker101 by HackerOne](https://www.hacker101.com/)
+10. [8kSec Battlegrounds](https://8ksec.io/battle/)
 
 ## Security Certifications
 **We are keeping the certifications which are popular amongst security community and what HR asks.**
@@ -176,6 +177,20 @@ We would keep adding relevant learning references when we find them informative 
 
 1. CASA - Certified API Security Analyst
 2. ASCP - API Security Certified Professional
+</details>
+
+<details>
+<summary> <b>11. 8kSec Certs</b> </summary>
+
+1. OMSE - Offensive Mobile Security Expert
+2. CMSE - Certified Mobile Security Engineer
+3. OAAE - Offensive ARM Exploitation Expert
+4. CISE - Certified iOS Security Engineer
+5. CASE - Certified Android Security Engineer
+6. CAMRE - Certified Android Malware Researcher
+7. CIMRE - Certified iOS Malware Researcher
+8. CMMRE - Certified Mobile Malware Reverse Engineer
+9. CAISR - Certified AI Security Researcher
 </details>
 
 
